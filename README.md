@@ -1,6 +1,6 @@
 # Simple Analog CSS clock
 
-This simple CSS Clock project was inspired by @wesbos and his [#Javascript30](http://javascript30.com) challenge.
+[See in action](https://rosnovsky.github.io/css-clock/)
 
 ## My favorite features
 
@@ -23,4 +23,4 @@ Adding simple styles via JS "move" hands around:
 secondHand.style.transform = `rotate(${secondsDegrees}deg)`;
 ```
 
-# [See in action](https://rosnovsky.github.io/css-clock/)
+> This simple CSS Clock project was inspired by @wesbos and his [#Javascript30](http://javascript30.com) challenge.
